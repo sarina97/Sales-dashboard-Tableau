@@ -18,7 +18,7 @@ The dashboard is **dynamic**, allowing users to filter by year and explore detai
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Screenshot%202025-09-13%20182146.png)
+![Sales Dashboard](sales-dashboard-preview.png)
 
 ---
 
